@@ -1,6 +1,7 @@
 {
 	"author": "Naqash Sakhawat",
 	"description": "this is description entry of my project",
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
