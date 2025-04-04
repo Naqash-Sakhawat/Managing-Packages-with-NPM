@@ -1,6 +1,6 @@
 {
 	"author": "Naqash Sakhawat",
-	"description": "this is my 2nd lesson",
+	"description": "this is description entry of my project",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
